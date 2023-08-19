@@ -1,0 +1,8 @@
+localhost/project/profile.php
+
+john.doe@gmail.com
+
+jd123pwd
+
+
+https://github.com/Nay-Win-Aung/projectPhp
